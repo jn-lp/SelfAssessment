@@ -99,11 +99,11 @@
   - Mixins: 🙋 explained
   - `Object.assign`: 🙋 explained
 - Standard classes and namespaces
-  - `Proxy`: 🖐️ used
+  - `Proxy`: e
   - `RegExp`: 🙋 explained
   - `Date`: 🙋 explained
   - `Math`: 🙋 explained
-  - `Reflect`: 🖐️ used
+  - `Reflect`: e
   - `Error`: 🙋 explained
   - `Atomics`: 🖐️ used
   - `JSON`: 🙋 explained

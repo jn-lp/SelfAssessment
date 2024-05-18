@@ -78,8 +78,8 @@
   - Structural typing: 🙋 explained
   - Explicit typing: 🙋 explained
   - Type inference: 🙋 explained
-  - Covariance: 🎓 known
-  - Contravariance: 🎓 known
+  - Covariance: e
+  - Contravariance: e
 - Functions
   - Signature: 🙋 explained
   - Argument: 🙋 explained
@@ -105,36 +105,36 @@
   - Generator: 🙋 explained
   - Coroutine: 🙋 explained
 - Data structures
-  - Array: 🙋 explained
+  - Array: c
   - Structure: 🙋 explained
   - Record: 🙋 explained
   - Enum: 🙋 explained
   - Instance: 🙋 explained
   - Object: 🙋 explained
-  - Collection: 🙋 explained
+  - Collection: c
   - Set: 🙋 explained
-  - Hash table: 🙋 explained
-  - Linked list: 🙋 explained
-  - Doubly list: 🙋 explained
+  - Hash table: c
+  - Linked list: c
+  - Doubly list: c
   - Unrolled list: 🙋 explained
   - Circular list: 🙋 explained
-  - Queue: 🙋 explained
-  - Stack: 🙋 explained
+  - Queue: c
+  - Stack: c
   - Deque: 🙋 explained
-  - Tree: 🙋 explained
-  - Graph: 🙋 explained
-  - Iterator: 🙋 explained
+  - Tree: c
+  - Graph: c
+  - Iterator: c
   - Mutable state: 🙋 explained
   - Immutable state: 🙋 explained
   - Serialization: 🙋 explained
-  - String parsing: 🙋 explained
+  - String parsing: c
   - JSON: 🙋 explained
-  - JSON5: 🖐️ used
+  - JSON5: e
   - YAML: 🙋 explained
 - Networking
-  - DNS: 🙋 explained
+  - DNS: c
   - CDN: 🙋 explained
-  - CORS: 🙋 explained
+  - CORS: c
   - IPv4: 🙋 explained
   - IPv6: 🙋 explained
   - NAT: 🔬 researched
@@ -142,24 +142,24 @@
   - URN: 🙋 explained
   - URI: 🙋 explained
 - Process and tools
-  - Compiler: 🎓 known
-  - Just-in-time compilation: 🎓 known
-  - Ahead-of-time compilation: 🎓 known
-  - Transpiler: 🎓 known
-  - Linter: 🙋 explained
-  - Polyfill: 🙋 explained
-  - Interpreter: 🎓 known
-  - Linker: 🎓 known
-  - Dynamic linking: 🎓 known
-  - Static linking: 🎓 known
+  - Compiler: c
+  - Just-in-time compilation: c
+  - Ahead-of-time compilation: r
+  - Transpiler: c
+  - Linter: c
+  - Polyfill: c
+  - Interpreter: c
+  - Linker: r
+  - Dynamic linking: r
+  - Static linking: r
   - Runtime: 🙋 explained
-  - Virtual machine: 🙋 explained
+  - Virtual machine: r
   - Register-based VM: 🎓 known
   - Stack-based VM: 🎓 known
   - Containerization: 🙋 explained
-  - Debugger: 🙋 explained
-  - Tracing: 🎓 known
-  - Garbage collection: 🙋 explained
+  - Debugger: c
+  - Tracing: e
+  - Garbage collection: c
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
@@ -167,9 +167,9 @@
   - git: 🙋 explained
   - Github: 🙋 explained
   - Docker: 🙋 explained
-  - Kubernetes: 🎓 known
-  - GCC: 🎓 known
-  - LLVM: 🎓 known
+  - Kubernetes: e
+  - GCC: r
+  - LLVM: r
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
@@ -204,22 +204,22 @@
 - Runtimes and virtual machines
   - Bytecode: 🙋 explained
   - V8: 🙋 explained
-  - VJM: 🎓 known
+  - VJM: u
   - CLR: 👂 heard
   - Mono: 👂 heard
 - Operating systems
-  - Interrupts: 🎓 known
+  - Interrupts: e
   - Drivers: 🙋 explained
   - Kernel: 🙋 explained
   - Ring: 🎓 known
-  - Virtual memory: 🙋 explained
-  - File system: 🙋 explained
-  - Linux: 🙋 explained
-  - Unix: 🙋 explained
-  - BSD: 🎓 known
-  - MacOS: 🙋 explained
+  - Virtual memory: e
+  - File system: r
+  - Linux: r
+  - Unix: r
+  - BSD: u
+  - MacOS: r
   - Windows: 🎓 known
-  - Real-time OS: 🎓 known
+  - Real-time OS: u
   - Embedded OS: 🎓 known
 - Standards
   - ASCII: 🙋 explained
@@ -228,12 +228,12 @@
   - IETF: 🙋 explained
   - IANA: 🎓 known
   - IEEE: 🙋 explained
-  - Base64: 🙋 explained
+  - Base64: r
   - ECMA: 🙋 explained
   - ICANN: 🎓 known
   - ISO: 🙋 explained
-  - MIME: 🙋 explained
+  - MIME: r
   - OWASP: 🎓 known
-  - UTF-8: 🙋 explained
+  - UTF-8: r
   - W3C: 🙋 explained
   - ODMG: 🎓 known
