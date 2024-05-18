@@ -78,7 +78,7 @@
   - Metric abuse: 🙋 explained
   - ACID: 🎓 known
   - CAP theorem: 🙋 explained
-  - Single source of truth (SSOT): e
+  - Single source of truth (SSOT): 🙋 explained
 - Enterprise architecture
   - Understanding business needs: 🎓 known
   - Enterprise strategy: 🎓 known
@@ -89,10 +89,10 @@
   - Enterprise service bus: 🙋 explained
   - Service-oriented architecture: 🙋 explained
   - Microservices: 🙋 explained
-  - Process choreography: e
-  - Service orchestration: e
+  - Process choreography: 🙋 explained
+  - Service orchestration: 🙋 explained
   - Data warehouse: 🖐️ used
-  - Business Intelligence: u
+  - Business Intelligence: 🖐️ used
   - OLAP: 🎓 known
   - OLTP: 🎓 known
   - Conways Law: 🙋 explained

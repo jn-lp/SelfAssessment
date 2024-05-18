@@ -5,7 +5,7 @@
   - Performance tuning: 🙋 explained
   - Migrations: 🙋 explained
   - Schema versioning: 🙋 explained
-  - Backup and recovery: e
+  - Backup and recovery: 🙋 explained
   - Database scalability: 🙋 explained
   - Relational databases: 🙋 explained
   - Key-value store: 🙋 explained
@@ -16,11 +16,11 @@
   - Navigational databases: 🖐️ used
   - Hierarchical databases: 🖐️ used
   - In-memory databases: 🙋 explained
-  - Inverted index: e
+  - Inverted index: 🙋 explained
   - Data control language (DCL): 🖐️ used
   - Data definition language (DDL): 🙋 explained
-  - Data manipulation language (DML): e
-  - Data query language (DQL): e
+  - Data manipulation language (DML): 🙋 explained
+  - Data query language (DQL): 🙋 explained
 - Relational
   - Entity-Relationship Diagram: 🙋 explained
   - Normal forms: 🙋 explained
@@ -29,12 +29,12 @@
   - Foreign keys: 🙋 explained
   - Transactions: 🙋 explained
   - Views: 🙋 explained
-  - Subqueries: e
+  - Subqueries: 🙋 explained
   - Stored procedures: 🖐️ used
   - SQL functions: 🙋 explained
   - Materialized views: 🖐️ used
-  - Replications: e
-  - Virtualization: e
+  - Replications: 🙋 explained
+  - Virtualization: 🙋 explained
 - SQL
   - `SELECT`: 🙋 explained
   - `INSERT`: 🙋 explained
@@ -86,7 +86,7 @@
   - Firebase: 🙋 explained
 - Data engineering
   - Data warehousing: 🖐️ used
-  - Business intelligence: u
+  - Business intelligence: 🖐️ used
   - Big data: 🙋 explained
   - Data analysis: 🙋 explained
   - AI tools: 🙋 explained

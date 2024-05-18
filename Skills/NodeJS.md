@@ -73,7 +73,7 @@
   - TLS: 🙋 explained
   - Websocket: 🙋 explained
   - SSE: 🖐️ used
-  - HTTP/3 (QUIC): e
+  - HTTP/3 (QUIC): 🙋 explained
   - Long polling: 🙋 explained
   - REST: 🙋 explained
   - RPC: 🙋 explained
@@ -82,7 +82,7 @@
   - DDoS: 🙋 explained
   - XSS: 🙋 explained
   - Path traversal: 🙋 explained
-  - CSRF: e
+  - CSRF: 🙋 explained
   - DNS: 🙋 explained
   - SQL injection: 🙋 explained
   - noDelay: 🙋 explained
@@ -97,14 +97,14 @@
   - Readable: 🙋 explained
   - Writable: 🙋 explained
   - Transform: 🙋 explained
-  - Back pressure: e
+  - Back pressure: 🙋 explained
   - Buffer: 🙋 explained
   - Console: 🙋 explained
   - Inspector: 🙋 explained
 - Data access
   - Data access layer: 🙋 explained
   - Repository: 🙋 explained
-  - Active record: e
+  - Active record: 🙋 explained
   - Query builder: 🙋 explained
   - Object-Relational Mapping: 🙋 explained
   - CRUD: 🙋 explained
@@ -126,18 +126,18 @@
   - Data race: 🙋 explained
 - Integrations and bindings
   - Native addons: 🙋 explained
-  - `C` and `C++` addons: e
-  - `Rust` addons: e
-  - `Zig` addons: u
+  - `C` and `C++` addons: 🙋 explained
+  - `Rust` addons: 🙋 explained
+  - `Zig` addons: 🖐️ used
   - NAN (Native Abstractions for Node.js): 🎓 known
   - Node-API (formerly N-API): 🎓 known
   - NAPI `C` and `C++`: 🎓 known
   - NAPI `Rust`: 🎓 known
   - NAPI `Zig`: 🎓 known
-  - Webassembly `WAT`: u
-  - Webassembly `C` and `C++`: u
+  - Webassembly `WAT`: 🖐️ used
+  - Webassembly `C` and `C++`: 🖐️ used
   - Webassembly `Rust`: 🙋 explained
-  - Webassembly `Zig`: e
+  - Webassembly `Zig`: 🙋 explained
   - Webassembly `AssemblyScript`: 🙋 explained
   - Shared memory: 🙋 explained
-  - V8 binary serialization: u
+  - V8 binary serialization: 🖐️ used

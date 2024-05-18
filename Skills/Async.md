@@ -6,7 +6,7 @@
   - Non-blocking: 🔬 researched
   - Async I/O: 🔬 researched
   - Thread pool: 🔬 researched
-  - Pattern Reactor: u
+  - Pattern Reactor: 🖐️ used
   - CAS operations: 🔬 researched
   - epoll: 🎓 known
   - kqueue: 🎓 known
@@ -18,7 +18,7 @@
   - Live locks: 🖐️ used
   - Concurrent programming: 🚀 constructed
   - Parallel programming: 🔬 researched
-  - Actor Model: e
+  - Actor Model: 🙋 explained
   - Thread: 🙋 explained
   - Process: 🙋 explained
 - Async contracts
@@ -57,7 +57,7 @@
   - Async Collector: 🙋 explained
   - Semaphore: 🚀 constructed
   - Mutex: 🚀 constructed
-  - Spin Lock: u
+  - Spin Lock: 🖐️ used
 - JavaScript & Node.js specific
   - Timers: 🙋 explained
   - `setImmediate`: 🙋 explained
@@ -72,18 +72,18 @@
   - Promise hell: 🙋 explained
   - ref() and unref(): 🙋 explained
   - Error handling in async code: 🙋 explained
-  - Better stack traces with return await: e
+  - Better stack traces with return await: 🙋 explained
   - JSON streaming serialization: 🙋 explained
-  - AsyncLocalStorage: e
+  - AsyncLocalStorage: 🙋 explained
   - AsyncResource: 🖐️ used
 - Techniques
   - Async.js library: 🖐️ used
-  - RxJS library: e
-  - Promise.all: e
-  - Promise.allSettled: e
-  - Promise.race: e
-  - Promise.any: e
-  - Web Locks API: e
+  - RxJS library: 🙋 explained
+  - Promise.all: 🙋 explained
+  - Promise.allSettled: 🙋 explained
+  - Promise.race: 🙋 explained
+  - Promise.any: 🙋 explained
+  - Web Locks API: 🙋 explained
   - IPC: 🖐️ used
   - Channel API: 🖐️ used
   - Revealing constructor: 🖐️ used

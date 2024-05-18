@@ -16,7 +16,7 @@
   - Reactive programming: 🙋 explained
   - Functional-reactive (FRP): 🙋 explained
   - Automata-based programming: 🙋 explained
-  - Domain-specific languages: c
+  - Domain-specific languages: 🚀 constructed
   - Multi-paradigm programming: 🙋 explained
   - Metaprogramming: 🙋 explained
   - Actor model: 🙋 explained
@@ -64,28 +64,28 @@
   - Interface segregation principle (ISP): 🙋 explained
   - Dependency inversion principle (DIP): 🙋 explained
 - Patterns
-  - Singleton: c
+  - Singleton: 🚀 constructed
   - Factory Method: 🙋 explained
   - Abstract Factory: 🙋 explained
-  - Adapter: c
+  - Adapter: 🚀 constructed
   - Observer: 🙋 explained
   - Strategy: 🙋 explained
-  - Facade: c
+  - Facade: 🚀 constructed
   - Proxy: 🙋 explained
   - Chain of Responsibility: 🙋 explained
-  - Command: c
-  - Iterator: c
-  - State: c
+  - Command: 🚀 constructed
+  - Iterator: 🚀 constructed
+  - State: 🚀 constructed
   - Bridge: 🙋 explained
   - Builder: 🙋 explained
-  - Prototype: c
+  - Prototype: 🚀 constructed
   - Composite: 🙋 explained
   - Decorator: 🙋 explained
   - Flyweight: 🙋 explained
   - Mediator: 🙋 explained
   - Memento: 🙋 explained
   - Template Method: 🙋 explained
-  - Visitor: c
+  - Visitor: 🚀 constructed
   - Reactor: 🙋 explained
   - Active object: 🙋 explained
   - Delegation: 🙋 explained
