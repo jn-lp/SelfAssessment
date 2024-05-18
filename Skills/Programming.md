@@ -78,8 +78,8 @@
   - Structural typing: 🙋 explained
   - Explicit typing: 🙋 explained
   - Type inference: 🙋 explained
-  - Covariance: 🎓 known
-  - Contravariance: 🎓 known
+  - Covariance: 🙋 explained
+  - Contravariance: 🙋 explained
 - Functions
   - Signature: 🙋 explained
   - Argument: 🙋 explained
@@ -105,36 +105,36 @@
   - Generator: 🙋 explained
   - Coroutine: 🙋 explained
 - Data structures
-  - Array: 🙋 explained
+  - Array: 🚀 constructed
   - Structure: 🙋 explained
   - Record: 🙋 explained
   - Enum: 🙋 explained
   - Instance: 🙋 explained
   - Object: 🙋 explained
-  - Collection: 🙋 explained
+  - Collection: 🚀 constructed
   - Set: 🙋 explained
-  - Hash table: 🙋 explained
-  - Linked list: 🙋 explained
-  - Doubly list: 🙋 explained
+  - Hash table: 🚀 constructed
+  - Linked list: 🚀 constructed
+  - Doubly list: 🚀 constructed
   - Unrolled list: 🙋 explained
   - Circular list: 🙋 explained
-  - Queue: 🙋 explained
-  - Stack: 🙋 explained
+  - Queue: 🚀 constructed
+  - Stack: 🚀 constructed
   - Deque: 🙋 explained
-  - Tree: 🙋 explained
-  - Graph: 🙋 explained
-  - Iterator: 🙋 explained
+  - Tree: 🚀 constructed
+  - Graph: 🚀 constructed
+  - Iterator: 🚀 constructed
   - Mutable state: 🙋 explained
   - Immutable state: 🙋 explained
   - Serialization: 🙋 explained
-  - String parsing: 🙋 explained
+  - String parsing: 🚀 constructed
   - JSON: 🙋 explained
-  - JSON5: 🖐️ used
+  - JSON5: 🙋 explained
   - YAML: 🙋 explained
 - Networking
-  - DNS: 🙋 explained
+  - DNS: 🚀 constructed
   - CDN: 🙋 explained
-  - CORS: 🙋 explained
+  - CORS: 🚀 constructed
   - IPv4: 🙋 explained
   - IPv6: 🙋 explained
   - NAT: 🔬 researched
@@ -142,24 +142,24 @@
   - URN: 🙋 explained
   - URI: 🙋 explained
 - Process and tools
-  - Compiler: 🎓 known
-  - Just-in-time compilation: 🎓 known
-  - Ahead-of-time compilation: 🎓 known
-  - Transpiler: 🎓 known
-  - Linter: 🙋 explained
-  - Polyfill: 🙋 explained
-  - Interpreter: 🎓 known
-  - Linker: 🎓 known
-  - Dynamic linking: 🎓 known
-  - Static linking: 🎓 known
+  - Compiler: 🚀 constructed
+  - Just-in-time compilation: 🚀 constructed
+  - Ahead-of-time compilation: 🔬 researched
+  - Transpiler: 🚀 constructed
+  - Linter: 🚀 constructed
+  - Polyfill: 🚀 constructed
+  - Interpreter: 🚀 constructed
+  - Linker: 🔬 researched
+  - Dynamic linking: 🔬 researched
+  - Static linking: 🔬 researched
   - Runtime: 🙋 explained
-  - Virtual machine: 🙋 explained
+  - Virtual machine: 🔬 researched
   - Register-based VM: 🎓 known
   - Stack-based VM: 🎓 known
   - Containerization: 🙋 explained
-  - Debugger: 🙋 explained
-  - Tracing: 🎓 known
-  - Garbage collection: 🙋 explained
+  - Debugger: 🚀 constructed
+  - Tracing: 🙋 explained
+  - Garbage collection: 🚀 constructed
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
@@ -167,9 +167,9 @@
   - git: 🙋 explained
   - Github: 🙋 explained
   - Docker: 🙋 explained
-  - Kubernetes: 🎓 known
-  - GCC: 🎓 known
-  - LLVM: 🎓 known
+  - Kubernetes: 🙋 explained
+  - GCC: 🔬 researched
+  - LLVM: 🔬 researched
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
@@ -204,22 +204,22 @@
 - Runtimes and virtual machines
   - Bytecode: 🙋 explained
   - V8: 🙋 explained
-  - VJM: 🎓 known
+  - VJM: 🖐️ used
   - CLR: 👂 heard
   - Mono: 👂 heard
 - Operating systems
-  - Interrupts: 🎓 known
+  - Interrupts: 🙋 explained
   - Drivers: 🙋 explained
   - Kernel: 🙋 explained
   - Ring: 🎓 known
   - Virtual memory: 🙋 explained
-  - File system: 🙋 explained
-  - Linux: 🙋 explained
-  - Unix: 🙋 explained
-  - BSD: 🎓 known
-  - MacOS: 🙋 explained
+  - File system: 🔬 researched
+  - Linux: 🔬 researched
+  - Unix: 🔬 researched
+  - BSD: 🖐️ used
+  - MacOS: 🔬 researched
   - Windows: 🎓 known
-  - Real-time OS: 🎓 known
+  - Real-time OS: 🖐️ used
   - Embedded OS: 🎓 known
 - Standards
   - ASCII: 🙋 explained
@@ -228,12 +228,12 @@
   - IETF: 🙋 explained
   - IANA: 🎓 known
   - IEEE: 🙋 explained
-  - Base64: 🙋 explained
+  - Base64: 🔬 researched
   - ECMA: 🙋 explained
   - ICANN: 🎓 known
   - ISO: 🙋 explained
-  - MIME: 🙋 explained
+  - MIME: 🔬 researched
   - OWASP: 🎓 known
-  - UTF-8: 🙋 explained
+  - UTF-8: 🔬 researched
   - W3C: 🙋 explained
   - ODMG: 🎓 known

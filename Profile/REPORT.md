@@ -81,17 +81,17 @@ Total: you have `98` of `98` skills, `0` to be upgraded, and `98` above needed
 | For Node.js applied programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `50` of `50` skills, `0` to be upgraded, and `45` above needed
+Total: you have `50` of `50` skills, `0` to be upgraded, and `50` above needed
 
 | To start Node.js | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `37` of `37` skills, `0` to be upgraded, and `32` above needed
+Total: you have `37` of `37` skills, `0` to be upgraded, and `37` above needed
 
 | For Node.js platform/system programming | actual | ⟶  | required |
 | --- | --- | --- | --- |
 
-Total: you have `75` of `75` skills, `0` to be upgraded, and `64` above needed
+Total: you have `75` of `75` skills, `0` to be upgraded, and `72` above needed
 
 ## [NodeJS](/Skills/NodeJS.md)
 
